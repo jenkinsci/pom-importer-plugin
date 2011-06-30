@@ -55,6 +55,11 @@
     	<type>jar</type>
     	<scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>subversion</artifactId>
+      <version>1.11</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -202,5 +207,5 @@
       <url>http://maven.jenkins-ci.org:8081/content/repositories/releases/</url>
     </repository>
   </distributionManagement>
-
+  
 </project>
