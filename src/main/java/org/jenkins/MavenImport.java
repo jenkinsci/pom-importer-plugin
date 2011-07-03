@@ -14,6 +14,7 @@ import com.google.common.collect.Lists;
 /**
  * FIXME: Document type MavenImport.
  *
+ * @author Eric Weikl
  * @author Ulli Hafner
  */
 public class MavenImport {
